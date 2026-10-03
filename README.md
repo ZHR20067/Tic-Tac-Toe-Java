@@ -1,3 +1,4 @@
 # Tic-Tac-Toe-Java
 
-TicTacToe game in Java using NetBesns, where the player plays against CPU.
+Collaborated in a team of 4 to develop an Object-oriented TicTacToe game in Java using Netbeans, implementing game
+logic, win detection, and input validation.
